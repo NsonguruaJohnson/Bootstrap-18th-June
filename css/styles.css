@@ -1,0 +1,20 @@
+.button-color {
+    background-color: orangered !important;
+    /* outline: none; */
+}
+.red-key {
+   border-top-left-radius: 1rem;
+   border-bottom-left-radius: 1rem;
+}
+.red-div {
+    /* margin-right: 0px !important; */
+    padding-right: 0px !important;
+}
+.image-shape {
+    border-radius: 1rem;
+}
+.icon {
+    background-color: orangered !important;
+    border-radius: 5px;
+
+}
